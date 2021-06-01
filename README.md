@@ -6,7 +6,7 @@ Coding since... 2013 - long story short, started in front end dev and made my wa
 
 Currently learning how to automate all the things!
 
-Implementation Engineer on the GitHub Professional Services team, amateur coffee enthusiast, terrible golfer - it's a work in progress, and lover of all the pets (except spiders). ✨
+Implementation Engineer on the GitHub Professional Services team, amateur coffee enthusiast, ~~terrible~~ ok golfer - it's a work in progress, and lover of all the pets (except spiders). ✨
 
 #### 📫 How to reach me: 
 At [GitHub](https://github.com/AAugustine/) @AAugustine
